@@ -1,0 +1,155 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/zoorum-comments\n"
+"POT-Creation-Date: 2013-09-12 08:41:29+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: inc/zoorum-ajax-callbacks.php:13 inc/zoorum-ajax-callbacks.php:36
+msgid "no pid passed"
+msgstr ""
+
+#: inc/zoorum-ajax-callbacks.php:18 inc/zoorum-ajax-callbacks.php:41
+msgid "no post with pid"
+msgstr ""
+
+#: inc/zoorum-ajax-callbacks.php:22
+msgid "pid already has zoorum thread"
+msgstr ""
+
+#: inc/zoorum-utils.php:86
+msgid "page: "
+msgstr ""
+
+#: inc/zoorum-utils.php:94
+msgid "pid has no zoorum thread"
+msgstr ""
+
+#: inc/zoorum-utils.php:102
+msgid "Thread have been deleted in Zoorum."
+msgstr ""
+
+#: inc/zoorum-utils.php:104 inc/zoorum-utils.php:172
+msgid "Could not connect to subforum"
+msgstr ""
+
+#: inc/zoorum-utils.php:106 inc/zoorum-utils.php:174
+msgid "Could not connect to server"
+msgstr ""
+
+#: inc/zoorum-utils.php:108
+msgid "Unknown error"
+msgstr ""
+
+#: inc/zoorum-utils.php:116
+msgid " ago"
+msgstr ""
+
+#: inc/zoorum-utils.php:141
+msgid "Article by %s on "
+msgstr ""
+
+#: inc/zoorum-utils.php:169
+msgid "Incorrect API-key"
+msgstr ""
+
+#: inc/zoorum-widget.php:15
+msgid "Zoorum Forum Feed"
+msgstr ""
+
+#: inc/zoorum-widget.php:16
+msgid "A widget to display the recent feed from forum"
+msgstr ""
+
+#: inc/zoorum-widget.php:26
+msgid "Latest forum activity"
+msgstr ""
+
+#: inc/zoorum-widget.php:33
+msgid "Go to the forum"
+msgstr ""
+
+#: inc/zoorum-widget.php:49
+msgid "Title:"
+msgstr ""
+
+#: zoorum-admin.php:11
+msgid "Zoorum Comments options"
+msgstr ""
+
+#: zoorum-admin.php:28
+msgid "Options saved."
+msgstr ""
+
+#: zoorum-admin.php:33
+msgid "Options failed to save."
+msgstr ""
+
+#: zoorum-admin.php:47
+msgid "Zoorum URL"
+msgstr ""
+
+#: zoorum-admin.php:51
+msgid ""
+"The url of the zoorum forum. ex. http://test.zoorum.com/. Including the "
+"trailing slash!"
+msgstr ""
+
+#: zoorum-admin.php:56
+msgid "Zoorum API key"
+msgstr ""
+
+#: zoorum-admin.php:60
+msgid "The API Key from zoorum."
+msgstr ""
+
+#: zoorum-admin.php:65
+msgid "Display error messages"
+msgstr ""
+
+#: zoorum-admin.php:70 zoorum-admin.php:72
+msgid "Display error messages whenever communication to zoorum is corrupted."
+msgstr ""
+
+#: zoorum-admin.php:77
+msgid "Save changes"
+msgstr ""
+
+#: zoorum-comments-tpl.php:40
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: zoorum-comments-tpl.php:44
+msgid "Be the first to comment &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: zoorum-comments-tpl.php:67
+msgid "Comments are locked"
+msgstr ""
+
+#: zoorum-comments-tpl.php:73 zoorum-comments-tpl.php:74
+msgid "Continue this discussion on the forum"
+msgstr ""
+
+#: zoorum-comments-tpl.php:115
+msgid "Comment"
+msgstr ""
+
+#: zoorum-comments-tpl.php:134
+msgid "Send"
+msgstr ""
+
+#: zoorum-comments.php:75
+msgid ""
+"Note! Title must contain 5 characters to enable creation of a zoorum-thread "
+"on reply"
+msgstr ""

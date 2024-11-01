@@ -1,0 +1,107 @@
+@CHARSET "UTF-8";
+.zoorum-comments-wrapper {}
+.zoorum-comments-wrapper .zoorum-comments-title {
+	margin-bottom: 1em;
+}
+
+.zoorum-post, .zoorum-comment-form-wrapper {
+	padding: 18px 0 10px 0px;
+}
+.zoorum-post.zoorum-comment-form-wrapper {}
+.zoorum-post.zoorum-first {
+	display: none;
+}
+.zoorum-post.zoorum-comment, .zoorum-comment-form-wrapper.zoorum-comment {
+	padding-left: 40px;
+}
+.zoorum-post .zoorum-text {
+	min-height: 45px;
+}
+.zoorum-post .zoorum-text .zoorum-posttext {
+	margin-bottom: 5px;
+}
+.zoorum-post .zoorum-meta {
+	display: inline-block;
+}
+.zoorum-post .zoorum-meta, .zoorum-post .zoorum-actions {
+	font-size: 0.8em;
+}
+
+.zoorum-thread.islocked .zoorum-comment-link {
+	display: none;
+}
+.zoorum-post .zoorum-actions {
+	display: inline-block;
+}
+#comments.zoorum-comments-wrapper #respond {
+	border: none;
+	margin: 0;
+	padding: 0;
+	height: 0;
+	width: 100%;
+}
+.zoorum-comment-form {}
+.zoorum-comment-form input[type="text"] {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	width: 100%;
+	height: 100%;
+	min-height: 2em;
+}
+.zoorum-comment-form textarea {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	width: 100%;
+	padding: 5px;
+	overflow: hidden;
+	resize: none;
+	margin: 0 0;
+}
+.zoorum-comment-form input[type="submit"] {
+	float: right;
+	padding: 0.5em 1em;
+	margin-top: 0.5em;
+}
+.zoorum-clear-div {
+	clear:both;
+	width: 100%
+}
+#zoorum-comment-create-values, .zoorum-ajax-url {
+	display: none;
+}
+
+.zoorum-title-test {
+	margin-bottom: 8px;
+}
+#commentform .zoorum-comment-form-wrapper #zoorum-message {
+	width: 100%;
+}
+
+
+/* WIDGET */
+.zoorum-latest-feed {}
+.zoorum-latest-feed .zoorum-widget-post {
+	padding: 4px 0 4px;
+}
+.zoorum-latest-feed .zoorum-widget-post.zoorum-widget-post-first {
+	display: none;
+}
+.zoorum-latest-feed .zoorum-widget-post.zoorum-widget-post-comment {
+}
+.zoorum-widget-post a, .zoorum-widget-thread-header a {
+	text-decoration: none;
+}
+.zoorum-widget-forum-url-wrapper {
+	margin-top: 8px;
+	overflow: auto;
+}
+.zoorum-widget-thread-header {
+	padding: 8px 0 4px;
+	font-size: 0.8em;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-weight: bold;
+	border-bottom: 1px solid #f2f2f2;
+}

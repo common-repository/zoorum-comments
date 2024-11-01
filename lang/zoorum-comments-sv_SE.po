@@ -1,0 +1,160 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/zoorum-comments\n"
+"POT-Creation-Date: 2013-09-12 08:41:29+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-09-16 10:50+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: inc/zoorum-ajax-callbacks.php:13 inc/zoorum-ajax-callbacks.php:36
+msgid "no pid passed"
+msgstr "Inget post ID medskickat."
+
+#: inc/zoorum-ajax-callbacks.php:18 inc/zoorum-ajax-callbacks.php:41
+msgid "no post with pid"
+msgstr "Ingen post med post ID."
+
+#: inc/zoorum-ajax-callbacks.php:22
+msgid "pid already has zoorum thread"
+msgstr "post ID har redan zorum tråd."
+
+#: inc/zoorum-utils.php:86
+msgid "page: "
+msgstr "sida: "
+
+#: inc/zoorum-utils.php:94
+msgid "pid has no zoorum thread"
+msgstr "post ID har ingen zoorum tråd."
+
+#: inc/zoorum-utils.php:102
+msgid "Thread have been deleted in Zoorum."
+msgstr "Tråden har blivit borttagen i Zoorum"
+
+#: inc/zoorum-utils.php:104 inc/zoorum-utils.php:172
+msgid "Could not connect to subforum"
+msgstr "Kunde inte kontakta subforum"
+
+#: inc/zoorum-utils.php:106 inc/zoorum-utils.php:174
+msgid "Could not connect to server"
+msgstr "Kunde inte kontakta servern"
+
+#: inc/zoorum-utils.php:108
+msgid "Unknown error"
+msgstr "Okänt fel"
+
+#: inc/zoorum-utils.php:108
+msgid " ago"
+msgstr " sedan"
+
+#: inc/zoorum-utils.php:141
+msgid "Article by %s on "
+msgstr "Artikel av %s på "
+
+#: inc/zoorum-utils.php:169
+msgid "Incorrect API-key"
+msgstr "Felaktig API-nyckel"
+
+#: inc/zoorum-widget.php:15
+msgid "Zoorum Forum Feed"
+msgstr "Zoorum Forum Feed"
+
+#: inc/zoorum-widget.php:16
+msgid "A widget to display the recent feed from forum"
+msgstr "En widget för att visa den senaste aktiviteten på forumet"
+
+#: inc/zoorum-widget.php:26
+msgid "Latest forum activity"
+msgstr "Senaste forumaktivitet"
+
+#: inc/zoorum-widget.php:33
+msgid "Go to the forum"
+msgstr "Gå till forumet"
+
+#: inc/zoorum-widget.php:49
+msgid "Title:"
+msgstr "Titel:"
+
+#: zoorum-admin.php:11
+msgid "Zoorum Comments options"
+msgstr "Zoorum plugin inställningar"
+
+#: zoorum-admin.php:28
+msgid "Options saved."
+msgstr "Inställningar sparade."
+
+#: zoorum-admin.php:33
+msgid "Options failed to save."
+msgstr "Inställningar blev ej sparade."
+
+#: zoorum-admin.php:47
+msgid "Zoorum URL"
+msgstr "Zoorum URL"
+
+#: zoorum-admin.php:51
+msgid ""
+"The url of the zoorum forum. ex. http://test.zoorum.com/. Including the "
+"trailing slash!"
+msgstr ""
+"Fullständig URL till zoorum forumet. ex. http://test.zoorum.com/. Inklusive "
+"den avslutande slashen!"
+
+#: zoorum-admin.php:56
+msgid "Zoorum API key"
+msgstr "Zoorum API nyckel"
+
+#: zoorum-admin.php:60
+msgid "The API Key from zoorum."
+msgstr "API nyckeln från zoorum."
+
+#: zoorum-admin.php:65
+msgid "Display error messages"
+msgstr "Visa felmeddelanden"
+
+#: zoorum-admin.php:70 zoorum-admin.php:72
+msgid "Display error messages whenever communication to zoorum is corrupted."
+msgstr "Visa felmeddelanden när kommunikation mot zoorum blir felaktig."
+
+#: zoorum-admin.php:77
+msgid "Save changes"
+msgstr "Spara ändringar"
+
+#: zoorum-comments-tpl.php:40
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "En kommentar till &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s Kommentarer till &ldquo;%2$s&rdquo;"
+
+#: zoorum-comments-tpl.php:44
+msgid "Be the first to comment &ldquo;%1$s&rdquo;"
+msgstr "Bli först att kommentera &ldquo;%1$s&rdquo;"
+
+#: zoorum-comments-tpl.php:67
+msgid "Comments are locked"
+msgstr "Kommentarer är låsta"
+
+#: zoorum-comments-tpl.php:73 zoorum-comments-tpl.php:74
+msgid "Continue this discussion on the forum"
+msgstr "Fortsätt denna diskussion på forumet"
+
+#: zoorum-comments-tpl.php:115
+msgid "Comment"
+msgstr "Kommentera"
+
+#: zoorum-comments-tpl.php:134
+msgid "Send"
+msgstr "Skicka"
+
+#: zoorum-comments.php:75
+msgid ""
+"Note! Title must contain 5 characters to enable creation of a zoorum-thread "
+"on reply"
+msgstr ""
+"Obs! Titel måste innehålla 5 tecken för att zoorumtråd ska kunna skapas"
